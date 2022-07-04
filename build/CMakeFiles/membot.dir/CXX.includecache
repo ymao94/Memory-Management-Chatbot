@@ -41,6 +41,8 @@ vector
 -
 string
 -
+memory
+-
 chatgui.h
 /home/ymao/git/github/Memory-Management-Chatbot/src/chatgui.h
 
@@ -54,6 +56,8 @@ string
 vector
 -
 string
+-
+memory
 -
 chatbot.h
 /home/ymao/git/github/Memory-Management-Chatbot/src/chatbot.h
